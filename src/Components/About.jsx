@@ -5,7 +5,7 @@ function About(){
     return(
         <div id="about">
             <div className="about-text">
-                <h1>Upcoming Event</h1>\
+                <h1>ABOUT US</h1>
                 <p>New prepared pot pie, strength plates of mixed greens, wood-let go pizzas, pasta, 
                     sandwiches, burgers, and more.Burger House heated merchandise and treats including 
                     our Six-Layer Chocolate Motherlode Cake, Scratch Carrot Cake, and delectably 

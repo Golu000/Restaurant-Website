@@ -28,8 +28,8 @@ function Navbar(){
             <ul className='menu'>
                 <li><Link to="main" smooth={true} duration={2000}>Home</Link></li>
                 <li><Link to="products" smooth={true} duration={2000}>Products</Link></li>
-                <li><Link to="about" smooth={true} duration={2000}>About</Link></li>
-                <li><Link to="contact" smooth={true} duration={2000}>Contact</Link></li>
+                <li><Link to="about" smooth={true} duration={2000}>About Us</Link></li>
+                <li><Link to="contact" smooth={true} duration={2000}>Contact Us</Link></li>
             </ul>
         </nav>
     )
